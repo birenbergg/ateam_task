@@ -1,6 +1,6 @@
 (function(){
 
-	var app = angular.module("booksCatalogueApp");
+	var app = angular.module("bookCatalogueApp");
 
     app.directive('fallbackSrc', function () {
         return {

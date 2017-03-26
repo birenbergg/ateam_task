@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Books Catalogue</title>
+		<title>Book Catalogue</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="apple-touch-icon-precomposed" href="/images/icons/iphone.png" />
@@ -15,7 +15,7 @@
 		<header class="text-center">
 			<h1>Books Catalogue</h1>
 		</header>
-		<main class="container-fluid" ng-app="booksCatalogueApp" ng-controller="booksController">
+		<main class="container-fluid" ng-app="bookCatalogueApp" ng-controller="bcController">
 			<div class="text-right display-mode">
 				<label>Display as: </label>
 				<span ng-click="displayMode = 'thumbnails'" class="glyphicon glyphicon-th display-mode-button" ng-class="{selected: displayMode == 'thumbnails'}"></span>
@@ -131,19 +131,19 @@
 		<!-- AngularJS -->
 		<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.6.3/angular.min.js"></script>
 
-		<script src="/app/booksCatalogueApp.js"></script>
+		<script src="/app/bookCatalogueApp.js"></script>
 
 		<!-- Services -->
-		<script src="/app/services/booksService.js"></script>
+		<script src="/app/services/bcService.js"></script>
 
 		<!-- Controllers -->
-		<script src="/app/controllers/booksController.js"></script>
+		<script src="/app/controllers/bcController.js"></script>
 
 		<!-- Directives -->
-		<script src="/app/directives/booksDirectives.js"></script>
+		<script src="/app/directives/bcDirectives.js"></script>
 		
 		<!-- Filters -->
-		<script src="/app/filters/booksFilters.js"></script>
+		<script src="/app/filters/bcFilters.js"></script>
 
 		<script type="text/javascript">
 			$('img').on("error", function() {

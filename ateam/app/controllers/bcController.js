@@ -1,10 +1,10 @@
 (function(){
 
-	var app = angular.module("booksCatalogueApp");
+	var app = angular.module("bookCatalogueApp");
 
-	app.controller("booksController", ['$scope', '$filter', 'booksService', function ($scope, $filter, booksService) {
+	app.controller("bcController", ['$scope', '$filter', 'bcService', function ($scope, $filter, bcService) {
 
-		booksService.getData().then(function(result) {
+		bcService.getData().then(function(result) {
 			$scope.books = result.data;
 
 			for (i = 0; i < $scope.books.length; i++) {
