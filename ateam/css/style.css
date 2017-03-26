@@ -95,3 +95,11 @@ input {
 .valid {
 	background: #cfc !important;
 }
+
+img.broken {
+	background-image: url(/images/book_covers/nocover.jpg);
+	min-height: 250px;
+	width: 180px;
+	background-repeat: no-repeat;
+	color: transparent;
+}

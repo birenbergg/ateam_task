@@ -82,7 +82,7 @@
 								<h1>{{ selectedItem.title | capitalize | alphaSpace }}</h1>
 							</div>
 							<div class="my-modal-body" ng-hide="editMode">
-								<img fallback-src="/images/book_covers/nocover.jpg" ng-src="/images/book_covers/{{ selectedItem.slug }}.jpg" alt="{{ selectedItem.title | capitalize | alphaSpace }}" />
+								<img ng-src="/images/book_covers/{{ selectedItem.slug }}.jpg" alt="{{ selectedItem.title | capitalize | alphaSpace }}" />
 								<div style="font-size: 16px">
 									<p>
 										<label>By:</label> <span ng-repeat="author in selectedItem.authors">{{ $first ? '' : $last ? ' and ' : ', ' }}{{ author.name }}</span>
@@ -144,5 +144,11 @@
 		
 		<!-- Filters -->
 		<script src="/app/filters/booksFilters.js"></script>
+
+		<script type="text/javascript">
+			$('img').on("error", function() {
+				$(this).attr('src', '/images/book_covers/nocover.jpg');
+			});
+		</script>
 	</body>
 </html>
