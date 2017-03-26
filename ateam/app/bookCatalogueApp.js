@@ -7,7 +7,7 @@
 		$routeProvider
 		.when("/", {
 			templateUrl : "/app/templates/thumbnails.html"
-		})
+        })
 		.when("/table", {
 			templateUrl : "/app/templates/table.html"
 		});
