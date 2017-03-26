@@ -66,18 +66,9 @@ table.table tr {
 	font-size: 20px
 }
 
-.display-mode-button {
-	cursor: pointer;
-	color: #ccc;
-}
-
-.display-mode-button:not(.display-mode-button.selected):hover {
-	color: #666;
-}
-
-.display-mode-button.selected {
-	cursor: default;
-	color: #000;
+.display-mode-button:hover,
+.display-mode-button:focus {
+	text-decoration: none;
 }
 
 form {

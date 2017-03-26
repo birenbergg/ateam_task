@@ -4,21 +4,25 @@
 
 	app.controller("bcController", ['$scope', '$filter', 'bcService', function ($scope, $filter, bcService) {
 
-		bcService.getData().then(function(result) {
-			$scope.books = result.data;
+		bcService.getData().then(
+            function (result) {
+                $scope.books = result;
 
-			for (i = 0; i < $scope.books.length; i++) {
-				$scope.books[i].date = processDate($scope.books[i].date);
-			}
-		});
+				for (i = 0; i < $scope.books.length; i++) {
+					$scope.books[i].date = processDate($scope.books[i].date);
+				}
+            },
+            function (error) {
+                console.log(error.statusText);
+            }
+        );
 
 		$scope.forms = {};
 
 		var processDate = function(dateStr) {
 			return new Date(parseInt(dateStr.substr(0,4)), parseInt(dateStr.substr(6,2)), parseInt(dateStr.substr(9,2)));
 		}
-
-		$scope.displayMode = 'thumbnails';
+		
 		$scope.editMode = false; 
 
 		$scope.sortProp = 'title';

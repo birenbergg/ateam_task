@@ -16,63 +16,14 @@
 			<h1>Book Catalogue</h1>
 		</header>
 		<main class="container-fluid" ng-app="bookCatalogueApp" ng-controller="bcController">
-			<div class="text-right display-mode">
+			<div class="text-right display-mode" style="margin-bottom: 2em;">
 				<label>Display as: </label>
-				<span ng-click="displayMode = 'thumbnails'" class="glyphicon glyphicon-th display-mode-button" ng-class="{selected: displayMode == 'thumbnails'}"></span>
-				<span ng-click="displayMode = 'table'" class="glyphicon glyphicon-list-alt display-mode-button" ng-class="{selected: displayMode == 'table'}"></span>
+				<a href="/" class="glyphicon glyphicon-th display-mode-button"></a>
+				<a href="/#!/table" class="glyphicon glyphicon-list-alt display-mode-button"></a>
 			</div>
 			<div id="bc-container">
 
-				<!-- Thumbnails -->
-				<div class="row" ng-show="displayMode == 'thumbnails'">
-					<div ng-repeat="book in books | orderBy: 'date'" class="bc-thumbnail col-lg-3 col-md-4 col-sm-6 col-xs-12">
-						<img fallback-src="/images/book_covers/nocover.jpg" ng-src="/images/book_covers/{{ book.slug }}.jpg" alt="{{ book.title | capitalize | alphaSpace }}" ng-click="showModal(book.id); $event.stopPropagation();" />
-						<div class="text-center">
-							<label>{{ book.title | capitalize | alphaSpace }}</label>
-						</div>
-						<div class="text-center">
-							<span ng-show="book.authors.length > 4">
-								<small ng-repeat="author in book.authors | limitTo:3">{{ $first ? '' : ', ' }}{{ author.name }}</small><small> and {{ book.authors.length - 3 }} others</small>
-							</span>
-							<small ng-show="book.authors.length <= 4" ng-repeat="author in book.authors">{{ $first ? '' : $last ? ' and ' : ', ' }}{{ author.name }}</small>
-						</div>
-					</div>
-				</div>
-
-				<!-- Table -->
-				<table ng-show="displayMode == 'table'" class="table table-hover table-responsive">
-					<thead>
-						<tr>
-							<th ng-click="sortProp = 'title'; sortDirection = !sortDirection">
-								Title
-								<span ng-show="sortProp == 'title' && sortDirection">&#9662</span>
-								<span ng-show="sortProp == 'title' && !sortDirection">&#9652</span>
-							</th>
-							<th ng-click="sortProp = 'authors[0].name'; sortDirection = !sortDirection">
-								Author(s)
-								<span ng-show="sortProp == 'authors[0].name' && sortDirection">&#9662</span>
-								<span ng-show="sortProp == 'authors[0].name' && !sortDirection">&#9652</span>
-							</th>
-							<th ng-click="sortProp = 'date'; sortDirection = !sortDirection">
-								Date
-								<span ng-show="sortProp == 'date' && sortDirection">&#9662</span>
-								<span ng-show="sortProp == 'date' && !sortDirection">&#9652</span>
-							</th>
-						</tr>
-					</thead>
-					<tbody>
-						<tr ng-repeat="book in books | orderBy:sortProp:sortDirection" ng-click="showModal(book.id); $event.stopPropagation();">
-							<td>{{ book.title | capitalize | alphaSpace }}</td>
-							<td>
-								<span ng-show="book.authors.length > 4">
-									<span ng-repeat="author in book.authors | limitTo:3">{{ $first ? '' : ', ' }}{{ author.name }}</span><span> and {{ book.authors.length - 3 }} others</span>
-								</span>
-								<span ng-show="book.authors.length <= 4" ng-repeat="author in book.authors">{{ $first ? '' : $last ? ' and ' : ', ' }}{{ author.name }}</span>
-							</td>
-							<td style="white-space: nowrap">{{ book.date | date }}</td>
-						</tr>
-					</tbody>
-				</table>
+				<ng-view style="width: 100%;"></ng-view>
 
 				<!-- Modal -->
 				<div id="modal" class="modal-wrapper">
@@ -128,8 +79,9 @@
 		<!-- JavaScript for Bootstrap -->
 		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	
-		<!-- AngularJS -->
+		<!-- AngularJS + Compunents-->
 		<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.6.3/angular.min.js"></script>
+		<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.6.3/angular-route.min.js"></script>
 
 		<script src="/app/bookCatalogueApp.js"></script>
 

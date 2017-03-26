@@ -1,0 +1,33 @@
+<table class="table table-hover table-responsive">
+	<thead>
+		<tr>
+			<th ng-click="sortProp = 'title'; sortDirection = !sortDirection">
+				Title
+				<span ng-show="sortProp == 'title' && sortDirection">&#9662</span>
+				<span ng-show="sortProp == 'title' && !sortDirection">&#9652</span>
+			</th>
+			<th ng-click="sortProp = 'authors[0].name'; sortDirection = !sortDirection">
+				Author(s)
+				<span ng-show="sortProp == 'authors[0].name' && sortDirection">&#9662</span>
+				<span ng-show="sortProp == 'authors[0].name' && !sortDirection">&#9652</span>
+			</th>
+			<th ng-click="sortProp = 'date'; sortDirection = !sortDirection">
+				Date
+				<span ng-show="sortProp == 'date' && sortDirection">&#9662</span>
+				<span ng-show="sortProp == 'date' && !sortDirection">&#9652</span>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr ng-repeat="book in books | orderBy:sortProp:sortDirection" ng-click="showModal(book.id); $event.stopPropagation();">
+			<td>{{ book.title | capitalize | alphaSpace }}</td>
+			<td>
+				<span ng-show="book.authors.length > 4">
+					<span ng-repeat="author in book.authors | limitTo:3">{{ $first ? '' : ', ' }}{{ author.name }}</span><span> and {{ book.authors.length - 3 }} others</span>
+				</span>
+				<span ng-show="book.authors.length <= 4" ng-repeat="author in book.authors">{{ $first ? '' : $last ? ' and ' : ', ' }}{{ author.name }}</span>
+			</td>
+			<td style="white-space: nowrap">{{ book.date | date }}</td>
+		</tr>
+	</tbody>
+</table>

@@ -1,0 +1,14 @@
+<div class="row">
+	<div ng-repeat="book in books | orderBy: 'date'" class="bc-thumbnail col-lg-3 col-md-4 col-sm-6 col-xs-12">
+		<img fallback-src="/images/book_covers/nocover.jpg" ng-src="/images/book_covers/{{ book.slug }}.jpg" alt="{{ book.title | capitalize | alphaSpace }}" ng-click="showModal(book.id); $event.stopPropagation();" />
+		<div class="text-center">
+			<label>{{ book.title | capitalize | alphaSpace }}</label>
+		</div>
+		<div class="text-center">
+			<span ng-show="book.authors.length > 4">
+				<small ng-repeat="author in book.authors | limitTo:3">{{ $first ? '' : ', ' }}{{ author.name }}</small><small> and {{ book.authors.length - 3 }} others</small>
+			</span>
+			<small ng-show="book.authors.length <= 4" ng-repeat="author in book.authors">{{ $first ? '' : $last ? ' and ' : ', ' }}{{ author.name }}</small>
+		</div>
+	</div>
+</div>
