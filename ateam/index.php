@@ -13,7 +13,7 @@
 	</head>
 	<body>
 		<header class="text-center">
-			<h1>Books Catalogue</h1>
+			<h1>Book Catalogue</h1>
 		</header>
 		<main class="container-fluid" ng-app="bookCatalogueApp" ng-controller="bcController">
 			<div class="text-right display-mode">
