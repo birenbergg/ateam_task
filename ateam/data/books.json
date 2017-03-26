@@ -1,0 +1,1712 @@
+[
+  {
+    "id": 1,
+    "title": "Rage",
+    "date": "1977-09-13",
+    "slug": "rage",
+    "authors": [
+      {
+        "name": "Stephen King"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "The Long Walk",
+    "date": "1979-08-24",
+    "slug": "long-walk",
+    "authors": [
+      {
+        "name": "Stephen King"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Gerald's Game",
+    "date": "1992-07-09",
+    "slug": "geralds-game",
+    "authors": [
+      {
+        "name": "Stephen King"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Needful Things",
+    "date": "1991-03-06",
+    "slug": "needful-things",
+    "authors": [
+      {
+        "name": "Stephen King"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Carrie",
+    "date": "1974-11-08",
+    "slug": "carrie",
+    "authors": [
+      {
+        "name": "Stephen King"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Misery",
+    "date": "1987-04-16",
+    "slug": "misery",
+    "authors": [
+      {
+        "name": "Stephen King"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Desperation",
+    "date": "1996-03-24",
+    "slug": "desperation",
+    "authors": [
+      {
+        "name": "Stephen King"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "The Girl Who Loved Tom Gordon",
+    "date": "1999-03-26",
+    "slug": "tom-gordon",
+    "authors": [
+      {
+        "name": "Stephen King"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Storm of the Century",
+    "date": "1999-03-12",
+    "slug": "storm-of-the-century",
+    "authors": [
+      {
+        "name": "Stephen King"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Cujo",
+    "date": "1981-01-07",
+    "slug": "cujo",
+    "authors": [
+      {
+        "name": "Stephen King"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Danse Macabre",
+    "date": "1981-04-06",
+    "slug": "danse-macabre",
+    "authors": [
+      {
+        "name": "Stephen King"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "The Dark Half",
+    "date": "1989-12-06",
+    "slug": "dark-half",
+    "authors": [
+      {
+        "name": "Stephen King"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Pet Sematary",
+    "date": "1983-02-23",
+    "slug": "pet-sematary",
+    "authors": [
+      {
+        "name": "Stephen King"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Legends from Invalid Street",
+    "date": "1971-05-08",
+    "slug": "legendy-invalidnoy-ulitzy",
+    "authors": [
+      {
+        "name": "Efraim Sevela"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Stop the Plane - I'm Getting Off",
+    "date": "1977-10-28",
+    "slug": "ostanovite-samolet",
+    "authors": [
+      {
+        "name": "Efraim Sevela"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Monya Tsatskes",
+    "date": "1978-04-14",
+    "slug": "monia-tzatzkes",
+    "authors": [
+      {
+        "name": "Efraim Sevela"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Men's Talk in Russian Bath House",
+    "date": "1980-05-25",
+    "slug": "muzhskoy-rzagovor",
+    "authors": [
+      {
+        "name": "Efraim Sevela"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Why There is no Heaven on Earth",
+    "date": "1981-04-28",
+    "slug": "pochemu-net-raia-na-zamle",
+    "authors": [
+      {
+        "name": "Efraim Sevela"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Wisdom Tooth",
+    "date": "1981-02-16",
+    "slug": "zub-mudrosti",
+    "authors": [
+      {
+        "name": "Efraim Sevela"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "The Parrot Speaking Yiddish",
+    "date": "1982-03-28",
+    "slug": "popugay-idish",
+    "authors": [
+      {
+        "name": "Efraim Sevela"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "The Pilgrimage",
+    "date": "1987-10-13",
+    "slug": "diario-de-um-mago",
+    "authors": [
+      {
+        "name": "Paulo Coeho"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "The Alchemist",
+    "date": "1988-07-28",
+    "slug": "alquimista",
+    "authors": [
+      {
+        "name": "Paulo Coeho"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "The Fifth Mountain",
+    "date": "1996-04-22",
+    "slug": "monte-cinco",
+    "authors": [
+      {
+        "name": "Paulo Coeho"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Veronika Decides to Die",
+    "date": "1998-11-13",
+    "slug": "veronika-decide-morrer",
+    "authors": [
+      {
+        "name": "Paulo Coeho"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "The Little Prince",
+    "date": "1943-03-27",
+    "slug": "petit-prince",
+    "authors": [
+      {
+        "name": "Antoine de Saint-Exupéry"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "The Adventures of Dunno and his Friends",
+    "date": "1953-09-14",
+    "slug": "neznayka-1",
+    "authors": [
+      {
+        "name": "Nikolay Nosov"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Dunno in Sun City",
+    "date": "1958-02-18",
+    "slug": "neznayka-2",
+    "authors": [
+      {
+        "name": "Nikolay Nosov"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Dunno on the Moon",
+    "date": "1964-09-08",
+    "slug": "neznayka-3",
+    "authors": [
+      {
+        "name": "Nikolay Nosov"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "The Wizard of the Emerald City",
+    "date": "1939-06-02",
+    "slug": "volshebnik-izumrudnogo-goroda",
+    "authors": [
+      {
+        "name": "Alexander Volkov"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Urfin Joos and his Wooden Soldiers",
+    "date": "1963-07-07",
+    "slug": "urfin-dzhus",
+    "authors": [
+      {
+        "name": "Alexander Volkov"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "The Seven Underground Kings",
+    "date": "1964-01-23",
+    "slug": "sem-podzemnykh-koroley",
+    "authors": [
+      {
+        "name": "Alexander Volkov"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "The Fiery God of the Marrans",
+    "date": "1968-09-12",
+    "slug": "ognennyy-bog-marranov",
+    "authors": [
+      {
+        "name": "Alexander Volkov"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "The Yellow Fog",
+    "date": "1970-09-28",
+    "slug": "zheltyy-tuman",
+    "authors": [
+      {
+        "name": "Alexander Volkov"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "The Secret of the Deserted Castle",
+    "date": "1976-05-23",
+    "slug": "tayna-zabroshennogo-zamka",
+    "authors": [
+      {
+        "name": "Alexander Volkov"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Uncle Fyodor, His Dog and His Cat",
+    "date": "1973-07-16",
+    "slug": "diadia-fedor-pes-i-kot",
+    "authors": [
+      {
+        "name": "Eduard Uspensky"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "title": "The Easy Way to Stop Smoking",
+    "date": "2002-10-10",
+    "slug": "easy-way-to-stop-smoking",
+    "authors": [
+      {
+        "name": "Allen Karr"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "title": "I Don't Know How to Get Slimmer",
+    "date": "2000-01-10",
+    "slug": "je-ne-sais-pas-maigrir",
+    "authors": [
+      {
+        "name": "Pierre Dukan"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Steve Jobs",
+    "date": "2011-04-09",
+    "slug": "steve-jobs",
+    "authors": [
+      {
+        "name": "Walter Isaacson"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "title": "The Animal World, vol. 1",
+    "date": "1988-02-06",
+    "slug": "mir-zhivotnykh-1",
+    "authors": [
+      {
+        "name": "Igor Akimushkin"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "title": "The Animal World, vol. 4",
+    "date": "1991-10-09",
+    "slug": "mir-zhivotnykh-4",
+    "authors": [
+      {
+        "name": "Igor Akimushkin"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "title": "A Word about Words",
+    "date": "1982-02-12",
+    "slug": "slovo-o-slovakh",
+    "authors": [
+      {
+        "name": "Lev Uspensky"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "title": "You and Your Name",
+    "date": "1972-10-08",
+    "slug": "ty-i-tvoe-imia-imia-doma-tvoego",
+    "authors": [
+      {
+        "name": "Lev Uspensky"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Everything Is Very Simple",
+    "date": "1992-01-14",
+    "slug": "vse-ochen-prosto",
+    "authors": [
+      {
+        "name": "Andrey Makarevich"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "title": "A Sheep Against the Brave",
+    "date": "2001-07-14",
+    "slug": "sam-ovtza",
+    "authors": [
+      {
+        "name": "Andrey Makarevich"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Entertaining Study of Drug Addiction",
+    "date": "2005-07-03",
+    "slug": "zanimatelnaia-narkologia",
+    "authors": [
+      {
+        "name": "Andrey Makarevich"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "title": "In the Beginning There Was a Sound",
+    "date": "2010-09-15",
+    "slug": "vnachale-byl-zvuk",
+    "authors": [
+      {
+        "name": "Andrey Makarevich"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "title": "The Machine with Jews",
+    "date": "2007-11-11",
+    "slug": "mashina-s-evreiami",
+    "authors": [
+      {
+        "name": "Petr Podgorodetsky"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "title": "The Beatles Anthology",
+    "date": "2000-12-16",
+    "slug": "beatles-anthology",
+    "authors": [
+      {
+        "name": "The Beatles"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Animal Farm",
+    "date": "1945-05-09",
+    "slug": "animal-farm",
+    "authors": [
+      {
+        "name": "George Orwell"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "title": "The Mysterious Island",
+    "date": "1874-05-26",
+    "slug": "ile-mysterieuse",
+    "authors": [
+      {
+        "name": "Jules Verne"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "title": "The Hobbit",
+    "date": "1937-11-06",
+    "slug": "hobbit",
+    "authors": [
+      {
+        "name": "John Ronald Reuel Tolkien"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "title": "The Fellowship of the Ring",
+    "date": "1954-03-25",
+    "slug": "fellowship-of-the-ring",
+    "authors": [
+      {
+        "name": "John Ronald Reuel Tolkien"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "title": "The Two Towers",
+    "date": "1954-07-16",
+    "slug": "two-towers",
+    "authors": [
+      {
+        "name": "John Ronald Reuel Tolkien"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "title": "The Return of the King",
+    "date": "1955-02-19",
+    "slug": "return-of-the-king",
+    "authors": [
+      {
+        "name": "John Ronald Reuel Tolkien"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "title": "The Martian Chronicles",
+    "date": "1950-09-26",
+    "slug": "martian-chronicles",
+    "authors": [
+      {
+        "name": "Ray Bradbury"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "title": "Fahrenheit 451",
+    "date": "1953-12-24",
+    "slug": "fahrenheit-451",
+    "authors": [
+      {
+        "name": "Ray Bradbury"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Something Wicked This Way Comes",
+    "date": "1962-04-22",
+    "slug": "something-wicked-this-way-comes",
+    "authors": [
+      {
+        "name": "Ray Bradbury"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "title": "The Red and the Black",
+    "date": "1830-02-11",
+    "slug": "rouge-et-noir",
+    "authors": [
+      {
+        "name": "Stendhal"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Of Human Bondage",
+    "date": "1915-03-18",
+    "slug": "of-human-bondage",
+    "authors": [
+      {
+        "name": "Somerset Maugham"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "title": "Babylon",
+    "date": "1999-10-22",
+    "slug": "generation-p",
+    "authors": [
+      {
+        "name": "Viktor Pelvin"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "title": "The Stand",
+    "date": "1978-09-15",
+    "slug": "stand",
+    "authors": [
+      {
+        "name": "Stephen King"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "title": "The Talisman",
+    "date": "1984-04-17",
+    "slug": "talisman",
+    "authors": [
+      {
+        "name": "Stephen King"
+      },
+      {
+        "name": "Peter Straub"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "title": "The Twelve Chairs",
+    "date": "1928-11-06",
+    "slug": "dvenadtzat-stuliev",
+    "authors": [
+      {
+        "name": "Ilya Ilf"
+      },
+      {
+        "name": "Yevgeny Petrov"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "title": "The Little Golden Calf",
+    "date": "1931-02-08",
+    "slug": "zolotoy-telenok",
+    "authors": [
+      {
+        "name": "Ilya Ilf"
+      },
+      {
+        "name": "Yevgeny Petrov"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "title": "The New Russia in Bed",
+    "date": "2001-07-15",
+    "slug": "novaia-rossia-v-posteli",
+    "authors": [
+      {
+        "name": "Edward Topol"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "title": "Kremlin Wives",
+    "date": "1993-03-11",
+    "slug": "kremlevskie-zheny",
+    "authors": [
+      {
+        "name": "Larisa Vasilyeva"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "title": "The Star Rover",
+    "date": "1915-09-12",
+    "slug": "star-rover",
+    "authors": [
+      {
+        "name": "Jack London"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Heart of a Dog",
+    "date": "1968-03-07",
+    "slug": "sobachye-serdtze",
+    "authors": [
+      {
+        "name": "Mikhail Bulgakov"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "title": "The Master and Margarita",
+    "date": "1966-12-12",
+    "slug": "master-i-margarita",
+    "authors": [
+      {
+        "name": "Mikhail Bulgakov"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "title": "Oliver Twist",
+    "date": "1837-11-20",
+    "slug": "oliver-twist",
+    "authors": [
+      {
+        "name": "Charles Dickens"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "title": "The Fables of Motherland",
+    "date": "2001-04-25",
+    "slug": "basni-o-rodine",
+    "authors": [
+      {
+        "name": "Vladimir Vishnevsky"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "title": "John Lennon",
+    "date": "1998-07-18",
+    "slug": "dzhon-lennon",
+    "authors": [
+      {
+        "name": "Andzhelika Dayniak"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "title": "The Adventure of Stupid Glickman",
+    "date": "1999-08-18",
+    "slug": "prikliuchenie-glupogo-glikmana",
+    "authors": [
+      {
+        "name": "Man Deps"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "title": "All Beatles Songs",
+    "date": "1997-01-25",
+    "slug": "vse-pesni-beatles",
+    "authors": [
+      {
+        "name": "Sergey Koznov"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "title": "The Beatles, My Love",
+    "date": "1993-04-24",
+    "slug": "bitlz-liubov-moia",
+    "authors": [
+      {
+        "name": "Aleksey Bagirov"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "title": "The Drunken Forest",
+    "date": "1955-08-28",
+    "slug": "drunken-forest",
+    "authors": [
+      {
+        "name": "Gerald Durrell"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "title": "Train Your Puppy",
+    "date": "1992-05-26",
+    "slug": "vospitay-shchenka",
+    "authors": [
+      {
+        "name": "Valeryan Zubko"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "title": "The Good Soldier Švejk",
+    "date": "1921-07-07",
+    "slug": "svejk",
+    "authors": [
+      {
+        "name": "Jaroslav Hašek"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "title": "Moscow 2042",
+    "date": "1986-02-21",
+    "slug": "moskva-2042",
+    "authors": [
+      {
+        "name": "Vladimir Voynovich"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Treasure Island",
+    "date": "1883-07-19",
+    "slug": "treasure-island",
+    "authors": [
+      {
+        "name": "Robert Stevenson"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Karlsson-on-the-Roof",
+    "date": "1955-04-20",
+    "slug": "karlsson-1",
+    "authors": [
+      {
+        "name": "Astrid Lindgren"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Karlsson Flies Again",
+    "date": "1962-01-27",
+    "slug": "karlsson-2",
+    "authors": [
+      {
+        "name": "Astrid Lindgren"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "title": "Karlsson-on-the-Roof is Sneaking Around Again",
+    "date": "1968-02-08",
+    "slug": "karlsson-3",
+    "authors": [
+      {
+        "name": "Astrid Lindgren"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "title": "Winnie-the-Pooh",
+    "date": "1926-03-03",
+    "slug": "winnie-the-pooh",
+    "authors": [
+      {
+        "name": "Alan Alexander Milne"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Spring",
+    "date": "1961-08-04",
+    "slug": "vesna",
+    "authors": [
+      {
+        "name": "Aleksandra Brushtein"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "title": "The Adventures of Tom Sawyer",
+    "date": "1876-10-28",
+    "slug": "tom-sawyer",
+    "authors": [
+      {
+        "name": "Mark Twain"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "title": "The Adventures of Huckleberry Finn",
+    "date": "1884-12-09",
+    "slug": "huckleberry-finn",
+    "authors": [
+      {
+        "name": "Mark Twain"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "title": "A Spaniard in the Works",
+    "date": "1965-08-17",
+    "slug": "spaniard-in-the-works",
+    "authors": [
+      {
+        "name": "John Lennon"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "title": "Simply Funny. Jokes",
+    "date": "1994-12-18",
+    "slug": "eto-prosto-smeshno",
+    "authors": [
+      {
+        "name": "Lev Barsky"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "title": "Adventures of Captain Wrongel",
+    "date": "1937-06-06",
+    "slug": "vrungel",
+    "authors": [
+      {
+        "name": "Andrey Nekrasov"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "title": "The Man Who Knew Everything",
+    "date": "2007-06-03",
+    "slug": "chelovek-kotoryy-znal-vse",
+    "authors": [
+      {
+        "name": "Igor Sakhnovsky"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "title": "One Year for Two",
+    "date": "1987-03-23",
+    "slug": "god-za-dva",
+    "authors": [
+      {
+        "name": "Mikhail Zhvanetsky"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "title": "The Three Musketeers",
+    "date": "1844-01-22",
+    "slug": "trois-mousquetaires",
+    "authors": [
+      {
+        "name": "Alexandre Dumas"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "title": "The Secret Diary of Laura Palmer",
+    "date": "1990-01-05",
+    "slug": "secret-diary -of-laura-palmer",
+    "authors": [
+      {
+        "name": "Jennifer Lynch"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "title": "The Autobiography of F.B.I. Special Agent Dale Cooper: My Life, My Tapes",
+    "date": "1991-06-16",
+    "slug": "autobiography-of-agent-cooper",
+    "authors": [
+      {
+        "name": "Jennifer Lynch"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "title": "The Old Genie Hottabych",
+    "date": "1938-10-21",
+    "slug": "starik-khottabych",
+    "authors": [
+      {
+        "name": "Lazar Lagin"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "title": "Captain Blood: His Odyssey",
+    "date": "1922-04-24",
+    "slug": "captain-blood",
+    "authors": [
+      {
+        "name": "Rafael Sabatini"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "title": "King Solomon's Mines",
+    "date": "1885-09-11",
+    "slug": "king-solomons-mines",
+    "authors": [
+      {
+        "name": "Henry Rider Haggard"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "title": "The Complete Guide to the Music of Queen",
+    "date": "1993-02-26",
+    "slug": "complete-guide-to-the-music-of-queen",
+    "authors": [
+      {
+        "name": "Peter Hogan"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "title": "The Complete Guide to the Music of The Beatles",
+    "date": "1995-06-22",
+    "slug": "complete-guide-to-the-music-of-the-beatles",
+    "authors": [
+      {
+        "name": "John Robertson"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "title": "The Lost World",
+    "date": "1912-01-07",
+    "slug": "lost-world",
+    "authors": [
+      {
+        "name": "Arthur Conan Doyle"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "title": "Murder Is Easy",
+    "date": "1939-09-28",
+    "slug": "murder-is-easy",
+    "authors": [
+      {
+        "name": "Agatha Christie"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "title": "One Hundred Tape Albums of Soviet Rock",
+    "date": "1991-07-10",
+    "slug": "100-magnitoalbomov",
+    "authors": [
+      {
+        "name": "Aleksandr Kushnir"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "title": "Kashtanka",
+    "date": "1887-08-14",
+    "slug": "kashtanka",
+    "authors": [
+      {
+        "name": "Anton Chekhov"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "title": "The Lady with the Dog",
+    "date": "1898-12-03",
+    "slug": "dama-s-sobachkoy",
+    "authors": [
+      {
+        "name": "Anton Chekhov"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "title": "The Bet",
+    "date": "1888-09-12",
+    "slug": "pari",
+    "authors": [
+      {
+        "name": "Anton Chekhov"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "title": "The Man in the Case",
+    "date": "1898-03-25",
+    "slug": "chelovek-v-futliare",
+    "authors": [
+      {
+        "name": "Anton Chekhov"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "title": "Rothschild's Violin",
+    "date": "1894-03-06",
+    "slug": "skripka-rotshilda",
+    "authors": [
+      {
+        "name": "Anton Chekhov"
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "title": "The Shining",
+    "date": "1977-08-08",
+    "slug": "shining",
+    "authors": [
+      {
+        "name": "Stephen King"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "title": "Different Seasons",
+    "date": "1982-05-03",
+    "slug": "different-seasons",
+    "authors": [
+      {
+        "name": "Stephen King"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "title": "Skeleton Crew",
+    "date": "1985-10-04",
+    "slug": "skeleton-crew",
+    "authors": [
+      {
+        "name": "Stephen King"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "title": "Forever and the Earth",
+    "date": "1987-11-03",
+    "slug": "o-skitaniakh",
+    "authors": [
+      {
+        "name": "Ray Bradbury"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "title": "Something Wicked This Way Comes. Stories",
+    "date": "2000-12-16",
+    "slug": "wicked",
+    "authors": [
+      {
+        "name": "Ray Bradbury"
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "title": "Prisoners of Asteroid",
+    "date": "1988-06-02",
+    "slug": "alisa",
+    "authors": [
+      {
+        "name": "Kir Bulychev"
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "title": "Tales",
+    "date": "1987-06-26",
+    "slug": "rodari",
+    "authors": [
+      {
+        "name": "Gianni Rodari"
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "title": "Mowgli, Karlsson-on-the-Roof, Winnie-the-Pooh",
+    "date": "1985-10-14",
+    "slug": "maugli-karlson-pukh",
+    "authors": [
+      {
+        "name": "Astrid Lindgren"
+      },
+      {
+        "name": "Rudyard Kipling"
+      },
+      {
+        "name": "Alan Alexander Milne"
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "title": "Where Did I Come From?",
+    "date": "1973-02-16",
+    "slug": "where-did-i-come-from",
+    "authors": [
+      {
+        "name": "Peter Mayle"
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "title": "Word for Word, Book One",
+    "date": "1994-06-19",
+    "slug": "slovo-za-slovo",
+    "authors": [
+      {
+        "name": "Arkan Kariv"
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "title": "999: New Stories of Horror and Suspense",
+    "date": "1999-11-02",
+    "slug": "999",
+    "authors": [
+      {
+        "name": "Stephen King"
+      },
+      {
+        "name": "David Morrell"
+      },
+      {
+        "name": "Neil Gaiman"
+      },
+      {
+        "name": "Dennis L. McKiernan"
+      },
+      {
+        "name": "Nancy Averill Collins"
+      },
+      {
+        "name": "Bentley Little"
+      },
+      {
+        "name": "Tim Powers"
+      },
+      {
+        "name": "Joe R. Lansdale"
+      },
+      {
+        "name": "Joyce Carol Oates"
+      },
+      {
+        "name": "Patricia D. Cacek"
+      },
+      {
+        "name": "William Peter Blatty"
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "title": "Lucy Crown",
+    "date": "1956-02-24",
+    "slug": "lucy-crown",
+    "authors": [
+      {
+        "name": "Irwin Shaw"
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "title": "Streets Tell...",
+    "date": "1968-02-23",
+    "slug": "ulitzy-rasskazyvaiut",
+    "authors": [
+      {
+        "name": "Konstantin Sarkisian"
+      },
+      {
+        "name": "Mikhail Stavnitser"
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "title": "From Two to Five",
+    "date": "1933-03-09",
+    "slug": "ot-dvukh-do-piati",
+    "authors": [
+      {
+        "name": "Korney Chukovsky"
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "title": "One Hundred Years of Solitude",
+    "date": "1967-08-13",
+    "slug": "cien-anos-de-soledad",
+    "authors": [
+      {
+        "name": "Gabriel García Márquez"
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "title": "There Will Come Soft Rains",
+    "date": "1950-07-08",
+    "slug": "soft-rains",
+    "authors": [
+      {
+        "name": "Ray Bradbury"
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "title": "Everything Is Very Complicated",
+    "date": "1994-09-24",
+    "slug": "vse-ochen-neprosto",
+    "authors": [
+      {
+        "name": "Maksim Kapitanovsky"
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "title": "Master of the Game",
+    "date": "1982-05-15",
+    "slug": "master-of-the-game",
+    "authors": [
+      {
+        "name": "Sidney Sheldon"
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "title": "Who Moved My Cheese?",
+    "date": "1998-12-06",
+    "slug": "who-moved-my-cheese",
+    "authors": [
+      {
+        "name": "Spencer Johnson"
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "title": "The Call of Cthulhu",
+    "date": "1928-08-27",
+    "slug": "call-of-cthulhu",
+    "authors": [
+      {
+        "name": "Howard Lovecraft"
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "title": "In His Own Write",
+    "date": "1964-09-02",
+    "slug": "in-his-own-write",
+    "authors": [
+      {
+        "name": "John Lennon"
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "title": "No One Writes to the Colonel",
+    "date": "1961-12-06",
+    "slug": "el-coronel-no-tiene-quien-le-escriba",
+    "authors": [
+      {
+        "name": "Gabriel García Márquez"
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "title": "Mumu",
+    "date": "1854-12-23",
+    "slug": "mumu",
+    "authors": [
+      {
+        "name": "Ivan Turgenev"
+      }
+    ]
+  },
+  {
+    "id": 324,
+    "title": "Alice’s Adventures in Wonderland",
+    "date": "1865-08-04",
+    "slug": "alice-wonderland",
+    "authors": [
+      {
+        "name": "Lewis Carroll"
+      }
+    ]
+  },
+  {
+    "id": 341,
+    "title": "Adventures of Buratino",
+    "date": "1936-05-04",
+    "slug": "buratino",
+    "authors": [
+      {
+        "name": "Aleksey Tolstoy"
+      }
+    ]
+  },
+  {
+    "id": 345,
+    "title": "KGB in a Tuxedo",
+    "date": "1993-10-06",
+    "slug": "kgb-v-smokinge-1",
+    "authors": [
+      {
+        "name": "Valentina Maltseva"
+      }
+    ]
+  },
+  {
+    "id": 347,
+    "title": "KGB in a Tuxedo 2",
+    "date": "1996-03-26",
+    "slug": "kgb-v-smokinge-2",
+    "authors": [
+      {
+        "name": "Valentina Maltseva"
+      }
+    ]
+  },
+  {
+    "id": 348,
+    "title": "KGB in a Tuxedo 3",
+    "date": "2000-01-10",
+    "slug": "kgb-v-smokinge-3",
+    "authors": [
+      {
+        "name": "Valentina Maltseva"
+      }
+    ]
+  },
+  {
+    "id": 349,
+    "title": "101 Nights of Grrreat Sex: Secret Sealed Seductions for Fun-Loving Couples",
+    "date": "1995-09-08",
+    "slug": "101-nights",
+    "authors": [
+      {
+        "name": "Laura Corn"
+      }
+    ]
+  },
+  {
+    "id": 379,
+    "title": "L. Carroll, R. Kipling, A. A. Milne,  J. Barrie",
+    "date": "1983-08-11",
+    "slug": "ckmb",
+    "authors": [
+      {
+        "name": "Rudyard Kipling"
+      },
+      {
+        "name": "Alan Alexander Milne"
+      },
+      {
+        "name": "Lewis Carroll"
+      },
+      {
+        "name": "James Barrie"
+      }
+    ]
+  },
+  {
+    "id": 391,
+    "title": "Peter Pan",
+    "date": "1911-09-05",
+    "slug": "peter-pan",
+    "authors": [
+      {
+        "name": "James Barrie"
+      }
+    ]
+  },
+  {
+    "id": 482,
+    "title": "Alive as Life",
+    "date": "1962-08-11",
+    "slug": "zhivoy-kak-zhizn",
+    "authors": [
+      {
+        "name": "Korney Chukovsky"
+      }
+    ]
+  },
+  {
+    "id": 483,
+    "title": "Physics for Entertainment. Book One",
+    "date": "1913-12-01",
+    "slug": "zanimatelnaia-fizika-1",
+    "authors": [
+      {
+        "name": "Yakov Perelman"
+      }
+    ]
+  },
+  {
+    "id": 484,
+    "title": "Physics for Entertainment. Book Two",
+    "date": "1923-11-28",
+    "slug": "zanimatelnaia-fizika-2",
+    "authors": [
+      {
+        "name": "Yakov Perelman"
+      }
+    ]
+  },
+  {
+    "id": 499,
+    "title": "Christ Legends and Other Stories",
+    "date": "1904-03-14",
+    "slug": "kristuslegender",
+    "authors": [
+      {
+        "name": "Selma Lagerlöf"
+      }
+    ]
+  },
+  {
+    "id": 500,
+    "title": "John Lennon Report",
+    "date": "1989-11-28",
+    "slug": "john-lennon-report",
+    "authors": [
+      {
+        "name": "Rudi Benzien"
+      }
+    ]
+  },
+  {
+    "id": 540,
+    "title": "Mandership",
+    "date": "2013-07-26",
+    "slug": "kovodstvo",
+    "authors": [
+      {
+        "name": "Artemy Lebedev"
+      }
+    ]
+  },
+  {
+    "id": 558,
+    "title": "The House at Pooh Corner",
+    "date": "1928-03-16",
+    "slug": "house-at-pooh-corner",
+    "authors": [
+      {
+        "name": "Alan Alexander Milne"
+      }
+    ]
+  },
+  {
+    "id": 559,
+    "title": "Rock Music: History and Development",
+    "date": "1998-09-24",
+    "slug": "rock",
+    "authors": [
+      {
+        "name": "Alexey Kozlov"
+      }
+    ]
+  },
+  {
+    "id": 565,
+    "title": "Einstein: His Life and Universe",
+    "date": "2007-09-02",
+    "slug": "einstein",
+    "authors": [
+      {
+        "name": "Walter Isaacson"
+      }
+    ]
+  },
+  {
+    "id": 566,
+    "title": "The Beatles. Phenomenon chronicles",
+    "date": "1990-12-14",
+    "slug": "khronika-fenomena",
+    "authors": [
+      {
+        "name": "Pavel Bondarovsky"
+      },
+      {
+        "name": "Alexandr Naloev"
+      }
+    ]
+  },
+  {
+    "id": 569,
+    "title": "The Wheels of a Soul",
+    "date": "1984-03-05",
+    "slug": "wheels-of-a-soul",
+    "authors": [
+      {
+        "name": "Philip Berg"
+      }
+    ]
+  }
+]

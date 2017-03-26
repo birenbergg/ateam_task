@@ -1,0 +1,100 @@
+.modal-wrapper {
+    visibility: hidden;
+    z-index: 1050;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .5);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+
+.my-modal-open {
+    visibility: visible;
+}
+
+.my-modal {
+    z-index: 1040;
+    position: relative;
+    background-color: #fff;
+    min-width:700px;
+    max-height: calc(100% - 4em);
+    max-width: calc(100% - 4em);
+
+    overflow-y: auto;
+    overflow-x: auto;
+}
+
+.my-modal-content {
+    outline: 0;
+    width: 100%;
+    background: white;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.my-modal-content img {
+  -webkit-margin-end: 2em;
+  box-shadow: 0 .25em .5em 0 rgba(0, 0, 0, .5);
+}
+
+.my-modal-header {
+  min-height: 16px;
+  padding: 15px;
+}
+
+.my-modal-title {
+  text-align: center;
+}
+
+.my-modal-body {
+    padding: 15px 30px 45px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start;
+}
+
+.my-close {
+  float: right;
+  font-size: 21px;
+  color: #999;
+  font-weight: bold;
+}
+
+.my-close:hover,
+.my-close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+button.my-close {
+  -webkit-appearance: none;
+  padding: 0;
+  cursor: pointer;
+  background: transparent;
+  border: 0;
+  text-align: right;
+  margin-right: .5em;
+  width: 20px;
+  align-self: flex-end;
+}
+
+.my-modal button.my-close {
+    margin-right: 7px;
+}
